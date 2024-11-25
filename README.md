@@ -1,4 +1,4 @@
-## About Dataset
+## Movies Analytics
 <div align="center">
 	<img width = "30%" src="https://github.com/Bayunova28/Movies_Analytics/blob/main/amazon-prime.jpg">
   <img width = "30%" src="https://github.com/Bayunova28/Movies_Analytics/blob/main/disney-plus-background-3yj4c6wmjfjo4vaj.jpg">
